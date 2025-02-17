@@ -1,0 +1,9 @@
+{
+  "name": "Moderation Command Converter Extended",
+  "version": "1.2.0",
+  "description": "Converts moderation commands into automatic mute and warn commands. '/1 user' becomes '?mute user 1d trading' and '?warn user trading', '/2 user' becomes '?mute user 5h spaming' and '?warn user spaming', and '/3 user' becomes '?mute user 1d hard r' and '?warn user hard r'.",
+  "author": "YourName",
+  "main": "mod.js",
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/Pritam6569/Moje"
+}
